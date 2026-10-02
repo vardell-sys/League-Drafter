@@ -1,8 +1,9 @@
 {
     "Jinx": {
-        "adc_counters": [],
-        "": [],
-        "": [],
-        "": []
+        "sup_synergies": [],
+        "sup_counters": [],
+        "gameplan": [],
+        "trading": [],
+        "roaming": []
     }
 }
